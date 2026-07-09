@@ -103,6 +103,14 @@ https://whiteboard-tutorial-eight.vercel.app/
 ⚙️ **Backend API (Render)**  
 https://api-whiteboard-az.onrender.com/
 
+## ⚙️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Goyalkrishna1/whiteboard-telepathy.git
+cd whiteboard-telepathy
+```
 
 👨‍💻 Author
 
