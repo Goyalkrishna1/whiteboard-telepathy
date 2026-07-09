@@ -95,3 +95,15 @@ whiteboard-telepathy/
 ├── .gitignore
 └── README.md
 ```
+## 🌐 Deployment Links
+
+🚀 **Frontend (Vercel)**  
+https://whiteboard-tutorial-eight.vercel.app/
+
+⚙️ **Backend API (Render)**  
+https://api-whiteboard-az.onrender.com/
+
+
+👨‍💻 Author
+
+Krishna Goyal
